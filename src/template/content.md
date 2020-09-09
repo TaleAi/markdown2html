@@ -2,7 +2,7 @@
 
 请阅读下方文本熟悉工具使用方法，本文可直接拷贝到微信中预览。
 
-## 1 Markdown Nice 简介
+## 1 Markdown2Html 简介
 
 - 支持自定义样式的 Markdown 编辑器
 - 支持微信公众号、知乎和稀土掘金
@@ -117,7 +117,7 @@ _这个是斜体_
 
 插入图片，如果是行内图片则无图例，否则有图例，格式如下：
 
-![这里写图片描述](https://my-wechat.mdnice.com/wechat.jpg)
+![这里写图片描述](https://my-wechat.mdnice.com/logo.png)
 
 可以通过在图片尾部添加宽度和高度控制图片大小，用法如下：
 
@@ -138,7 +138,7 @@ _这个是斜体_
 
 图片还可以和链接嵌套使用，能够实现推荐卡片的效果，用法如下：
 
-[![Markdown Nice 最全功能介绍](https://my-wechat.mdnice.com/dance.gif)](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+[![Markdown2Html 最全功能介绍](https://my-wechat.mdnice.com/dance.gif)](https://aizhuanqian.online/mardown2html)
 
 ## 4. 特殊语法
 
@@ -287,4 +287,4 @@ Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！
 
 ### 5.3 更多文档
 
-更多文档请参考 [markdown-nice-docs](https://preview.mdnice.com/articles/ "更多文档")
+更多文档请参考 [markdown2html-docs](https://aizhuanqian.online/mardown2html "更多文档")
