@@ -1,0 +1,5 @@
+/config/
+/scripts/
+*.test.*
+/main.js
+*.d.ts
