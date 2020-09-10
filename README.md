@@ -9,6 +9,9 @@
 
 - 支持自定义样式的 Markdown 编辑器
 - 支持微信公众号、知乎和稀土掘金
+- 支持公式
+- 支持html转markdwon
+- 支持导出pdf和markdown
 - 欢迎[在线使用](http://md.aizhuanqian.online/)
 
 ## 主题
